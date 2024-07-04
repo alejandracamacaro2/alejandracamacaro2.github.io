@@ -1,0 +1,14 @@
+
+.imagen {
+   max-width: 80%;
+   transition: opacity 0.3s ;
+   
+  }
+.imagen:hover {
+    opacity: 0.5;
+
+} 
+button {
+    border: none;
+    background-color: transparent;
+}

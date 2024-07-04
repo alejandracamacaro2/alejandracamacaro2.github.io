@@ -1,0 +1,9 @@
+.custom-buttom{
+    border: 2px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+    font-family: 'Schoolbell', cursive;
+    width: 200px;
+  }
